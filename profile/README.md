@@ -17,6 +17,8 @@ I port, update, and modernize Minecraft mods across versions, loaders, and platf
 
 ## Commissions
 
+**[Open a Commission Request](https://github.com/ModPorterMC/commission-requests/issues/new/choose)**
+
 For a quote, send:
 
 - Mod / repository
