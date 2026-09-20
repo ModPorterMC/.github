@@ -31,7 +31,7 @@ Large Minecraft version migration involving build/toolchain updates, Loom config
 ### Swashbucklers — Fabric Port
 Fabric port work involving rendering, client input networking, ship behavior adaptation, buoyancy and waterline fixes, rider/seat positioning, and compatibility work.
 
-[View Repository](https://github.com/JoshM487/swashbucklers-fabric-port)
+[View Repository](https://github.com/ModPorterMC/swashbucklers-fabric-port)
 
 ### Immersive Portals — 26.2 Work
 Minecraft 26.2 update work on a technically complex mod with advanced rendering behavior.
